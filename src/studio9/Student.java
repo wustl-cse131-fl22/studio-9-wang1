@@ -1,4 +1,4 @@
-package assignment7;
+package studio9;
 
 public class Student {
 	private String firstName;
